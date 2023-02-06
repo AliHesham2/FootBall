@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_White">#F3F3F3</color>
+
+    <color name="red">#D60133</color>
+    <color name="red_1">#825B64</color>
+    <color name="red_2">#BD687C</color>
+    <color name="red_3">#C79CA6</color>
+
+    <color name="grey">#03010CD9</color>
+    <color name="burgundy">#1A1437CF</color>
+    <color name="off_burgundy">#2019433D</color>
+    <color name="disable">#808080</color>
+
+    <color name="border">#F1F1F1</color>
+</resources>

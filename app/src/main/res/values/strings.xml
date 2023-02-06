@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FootBall</string>
+    <string name="NETWORK_ERROR">Network error</string>
+    <string name="SOMETHING_WRONG">Something went wrong</string>
+    <string name="Star_At">Star At</string>
+    <string name="Stared_At">Stared At</string>
+    <string name="TODAY">Today</string>
+    <string name="TMW">Tomorrow</string>
+    <string name="split">-</string>
+    <string name="premier_league">Premier League</string>
+    <string name="refresh">Refresh</string>
+    <string name="Week">Week</string>
+</resources>
